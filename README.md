@@ -60,7 +60,7 @@
 - Audio ✅;
 - Microfone ✅;
 - Rede Ethernet ✅;
-- Toas as portas USB ✅;
+- Todas as portas USB ✅;
 - Teclado e comandos fn ✅.
 
 <br/>
