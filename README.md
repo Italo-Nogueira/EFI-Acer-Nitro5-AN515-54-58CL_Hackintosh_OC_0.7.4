@@ -52,6 +52,7 @@
 
 ## O que funciona:
 
+- P2(Audio/Mic) 👉🏻 See P2_bugfix.zip ✅;
 - Wi-fi ✅;
 - Bluetooth ✅;
 - Trackpad ✅;
